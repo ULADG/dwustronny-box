@@ -22,10 +22,11 @@
 	transform: rotateY(180deg);
 }
 
-.box:hover box-front{
+.box:hover  .box-front{
 	transform: rotateY(180deg);
 }
-.box:hover box-back{
-	transform: rotateY(0deg);}
+.box:hover  .box-back{
+	transform: rotateY(0deg);
+}
 	
 	
